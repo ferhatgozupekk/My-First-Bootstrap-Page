@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Conrad Hotel",
+    "price": 2200,
+    "img": "https://media-cdn.tripadvisor.com/media/photo-s/1b/db/cb/76/levent-otel-dis-cephesi.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Miracle Resort Antalya",
+    "price": "3200",
+    "img": "https://i.neredekal.com/i/neredekal/6026aceeff3ffdca374b7e03"
+  },
+  {
+    "id": 3,
+    "name": "Titanic Hotels",
+    "price": "3700",
+    "img": "https://www.turizmajansi.com/images/haber/titanic-hotels-de-ayrical_4ad5.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Voyage Torba",
+    "price": 4000,
+    "img": "https://images.etstur.com/files/images/hotelImages/TR/52480/l/Voyage-Torba-Genel-364525.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Granada Luxury Belek",
+    "price": "3000",
+    "img": "https://images.etstur.com/files/images/hotelImages/TR/95763/m/Granada-Luxury-Belek-Genel-257544.jpg"
+  },
+  {
+    "id": 6,
+    "name": "The Norm Oriental",
+    "price": "4200",
+    "img": "https://images.etstur.com/files/images/hotelImages/TR/219948/l/The-Norm-Oriental-Genel-381000.jpg"
+  }
+]
